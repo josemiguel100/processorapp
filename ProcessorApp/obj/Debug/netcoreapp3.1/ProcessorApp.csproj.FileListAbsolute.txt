@@ -1,0 +1,13 @@
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/bin/Debug/netcoreapp3.1/ProcessorApp.deps.json
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/bin/Debug/netcoreapp3.1/ProcessorApp.runtimeconfig.json
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/bin/Debug/netcoreapp3.1/ProcessorApp.runtimeconfig.dev.json
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/bin/Debug/netcoreapp3.1/ProcessorApp.dll
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/bin/Debug/netcoreapp3.1/ProcessorApp.pdb
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/obj/Debug/netcoreapp3.1/ProcessorApp.csproj.AssemblyReference.cache
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/obj/Debug/netcoreapp3.1/ProcessorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/obj/Debug/netcoreapp3.1/ProcessorApp.AssemblyInfoInputs.cache
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/obj/Debug/netcoreapp3.1/ProcessorApp.AssemblyInfo.cs
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/obj/Debug/netcoreapp3.1/ProcessorApp.csproj.CoreCompileInputs.cache
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/obj/Debug/netcoreapp3.1/ProcessorApp.dll
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/obj/Debug/netcoreapp3.1/ProcessorApp.pdb
+/Users/jmgomez/Projects/ProcessorApp/ProcessorApp/obj/Debug/netcoreapp3.1/ProcessorApp.genruntimeconfig.cache

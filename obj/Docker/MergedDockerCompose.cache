@@ -1,0 +1,7 @@
+services:
+  processorapp:
+    build:
+      context: /Users/jmgomez/Projects/ProcessorApp
+      dockerfile: ProcessorApp/Dockerfile
+    image: processorapp
+version: '3.4'

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  processorapp:
+    image: ${DOCKER_REGISTRY-}processorapp
+    build:
+      context: .
+      dockerfile: ProcessorApp/Dockerfile

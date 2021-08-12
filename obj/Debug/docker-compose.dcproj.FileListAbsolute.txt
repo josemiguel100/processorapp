@@ -1,0 +1,8 @@
+/Users/jmgomez/Projects/ProcessorApp/bin/Debug/ProcessorApp.deps.json
+/Users/jmgomez/Projects/ProcessorApp/bin/Debug/ProcessorApp.runtimeconfig.json
+/Users/jmgomez/Projects/ProcessorApp/bin/Debug/ProcessorApp.runtimeconfig.dev.json
+/Users/jmgomez/Projects/ProcessorApp/bin/Debug/ProcessorApp.dll
+/Users/jmgomez/Projects/ProcessorApp/bin/Debug/ProcessorApp.pdb
+/Users/jmgomez/Projects/ProcessorApp/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/jmgomez/Projects/ProcessorApp/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/jmgomez/Projects/ProcessorApp/obj/Debug/docker-compose.dcproj.CopyComplete

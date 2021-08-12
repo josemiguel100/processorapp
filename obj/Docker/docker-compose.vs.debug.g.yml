@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  processorapp:
+    image: processorapp:dev
+    container_name: ProcessorApp
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "ProcessorApp"
+    environment:
+      - NUGET_FALLBACK_PACKAGES=
+    volumes:
+      - /Users/jmgomez/Projects/ProcessorApp/ProcessorApp:/app
+      - /Users/jmgomez/vsdbg/vs2017u5:/remote_debugger:rw
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      com.microsoft.visualstudio.debuggee.arguments: "  \"/app/bin/Debug/netcoreapp3.1/ProcessorApp.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
